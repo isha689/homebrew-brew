@@ -5,7 +5,7 @@ class Twiliodraft < Formula
   homepage "https://github.com/twilio/twilio-cli"
   url "https://github.com/isha689/twilio-cli/releases/latest/download/twilio-3.1.0-draft.3.tar.gz"
   version "5.1.8-draft.1"
-  sha256 "ad71f4ce3012b6264c1a9dc7858d0ce42e5231931e5712aedec08d34cd6f5cdd"
+  sha256 "324d0321030419077b2520d1e4fda7fdda7c2ea76b4c3f69456009b2e22d33b9"
   depends_on "node"
 
   def install
